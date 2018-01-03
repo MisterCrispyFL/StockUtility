@@ -1,0 +1,58 @@
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\bin\Debug\StockUtilities.exe.config
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\bin\Debug\StockUtilities.exe
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\bin\Debug\StockUtilities.pdb
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\obj\Debug\MainWindow.g.cs
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\obj\Debug\App.g.cs
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities_MarkupCompile.cache
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities_MarkupCompile.lref
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\obj\Debug\MainWindow.baml
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.g.resources
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.Properties.Resources.resources
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.csproj.GenerateResource.Cache
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.exe
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.pdb
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\bin\Debug\StockUtilities.exe.manifest
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\bin\Debug\StockUtilities.application
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.exe.manifest
+c:\users\mrcrispy\documents\visual studio 2015\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.application
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\bin\Debug\StockUtilities.exe.config
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\bin\Debug\StockUtilities.exe.manifest
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\bin\Debug\StockUtilities.application
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\bin\Debug\StockUtilities.exe
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\bin\Debug\StockUtilities.pdb
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.csprojResolveAssemblyReference.cache
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\obj\Debug\MainWindow.g.cs
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\obj\Debug\App.g.cs
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities_MarkupCompile.cache
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities_MarkupCompile.lref
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\obj\Debug\MainWindow.baml
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.g.resources
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.Properties.Resources.resources
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.csproj.GenerateResource.Cache
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.exe.manifest
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.application
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.exe
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\obj\Debug\StockUtilities.pdb
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\bin\Debug\StockStuff.dll
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockUtilities\bin\Debug\StockStuff.pdb
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\bin\Debug\StockUtilities.exe.config
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\bin\Debug\StockUtilities.exe.manifest
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\bin\Debug\StockUtilities.application
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\bin\Debug\StockUtilities.exe
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\bin\Debug\StockUtilities.pdb
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\bin\Debug\StockStuff.dll
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\bin\Debug\StockStuff.pdb
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\StockUtilities.csprojResolveAssemblyReference.cache
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\MainWindow.g.cs
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\App.g.cs
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\StockUtilities_MarkupCompile.cache
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\StockUtilities_MarkupCompile.lref
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\MainWindow.baml
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\StockUtilities.g.resources
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\StockUtilities.Properties.Resources.resources
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\StockUtilities.csproj.GenerateResource.Cache
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\StockUtilities.csproj.CoreCompileInputs.cache
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\StockUtilities.exe.manifest
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\StockUtilities.application
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\StockUtilities.exe
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockUtilities\obj\Debug\StockUtilities.pdb

@@ -1,0 +1,11 @@
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockStuff\bin\Debug\StockStuff.dll
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockStuff\bin\Debug\StockStuff.pdb
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockStuff\obj\Debug\StockStuff.csprojResolveAssemblyReference.cache
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockStuff\obj\Debug\StockStuff.dll
+C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockStuff\obj\Debug\StockStuff.pdb
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockStuff\bin\Debug\StockStuff.dll
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockStuff\bin\Debug\StockStuff.pdb
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockStuff\obj\Debug\StockStuff.csprojResolveAssemblyReference.cache
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockStuff\obj\Debug\StockStuff.csproj.CoreCompileInputs.cache
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockStuff\obj\Debug\StockStuff.dll
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockStuff\obj\Debug\StockStuff.pdb
