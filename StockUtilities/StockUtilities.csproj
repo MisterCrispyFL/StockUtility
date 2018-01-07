@@ -83,6 +83,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ReverseDividendMethods.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -92,6 +93,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BreakEvenMethods.cs" />
+    <Compile Include="DividendMethods.cs" />
     <Compile Include="KeyboardFocus.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
