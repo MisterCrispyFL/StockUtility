@@ -1,13 +1,9 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs/StockUtilities/v15
-/
-StockUtilities/obj/Debug/MainWindow.baml
-
+﻿/.vs/StockUtilities/v15
+/StockUtilities/obj/Debug/MainWindow.baml
 /StockUtilities/obj/Debug/StockUtilities.csproj.CoreCompileInputs.cache
-
 /StockUtilities/obj/Debug/StockUtilities_MarkupCompile.cache
-
 /packages
+*.lref
+*.cache
+*.cache
+*.nupkg
