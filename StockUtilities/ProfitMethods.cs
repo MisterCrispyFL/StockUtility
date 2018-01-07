@@ -5,7 +5,7 @@
     using System.Windows.Navigation;
     using StockStuff;
 
-    partial class MainWindow
+    public partial class MainWindow
     {
         private void Profit_TextChanged(object sender, TextChangedEventArgs e)
         {

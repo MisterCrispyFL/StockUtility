@@ -13,8 +13,8 @@
         {
             if (!CanCalculateBreakEven()) return 0.00M;
             var finalAmount = ((OriginalPrice * NumberOfShares) + (BrokerageFees * 2)) / NumberOfShares;
-            
-            return finalAmount > 0 ? Math.Round(finalAmount, 2, MidpointRounding.AwayFromZero) : 0.00M;
+
+            return finalAmount.ToCurrency();
         }
 
         public IProfitObject CalculateProfit()

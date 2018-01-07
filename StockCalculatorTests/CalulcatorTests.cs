@@ -4,7 +4,7 @@
     using StockStuff;
     using Xunit;
 
-    public class CalulcatorTests
+    public class CalculcatorTests
     {
         [Theory]
         [InlineData(29.925, 6.95, 20, 30.62)]
@@ -41,6 +41,35 @@
 
             Assert.Equal(expectedTotal, result.TotalProfit);
             Assert.Equal(expetedPerShare, result.ProfitPerShare);
+        }
+
+        [Fact]
+        public void CalculateDividendYield_ReturnsProperAmount()
+        {
+            var factory = new DividendCalculator
+                          {
+                              StockPrice = 12.00M,
+                              NumberOfShares = 30,
+                              DividendPercentage = 3.86M
+                          };
+            var result = factory.CalculateDividendYield();
+
+            Assert.Equal(13.90M, result);
+        }
+
+        [Fact]
+        public void CalculateNeededShares_ReturnsProperNumberOfShares()
+        {
+            var factory = new DividendCalculator
+                          {
+                              StockPrice = 12.00M,
+                              DividendPercentage = 3.86M,
+                              DividendYield = 13.90M
+                          };
+
+            var result = factory.CalculateNeededShares();
+
+            Assert.Equal(30, result);
         }
 
         //[Fact]

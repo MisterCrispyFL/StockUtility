@@ -37,8 +37,32 @@
                     </Border>
                 </Grid>
             </TabItem>
-
-
+            <TabItem Header="Dividend Yield">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Stock Price" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="DivStockPrice" HorizontalAlignment="Left" Height="23" Margin="101,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="DivCalc_TextChanged" Text="0.00"/>
+                    <Label Content="Dividend %" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="DivPercent" HorizontalAlignment="Left" Height="23" Margin="101,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="DivCalc_TextChanged" Text="0.00"/>
+                    <Label Content="# Of Shares" HorizontalAlignment="Left" Margin="10,73,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="DivNumberOfSharesOwned" HorizontalAlignment="Left" Height="23" Margin="101,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="DivCalc_TextChanged" Text="1"/>
+                    <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="137" Margin="40,136,0,0" VerticalAlignment="Top" Width="405">
+                        <Label x:Name="LblDivYield" Content="Total Yield: $0.00" Margin="15,19,14,20" FontWeight="Bold" FontSize="22" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center"/>
+                    </Border>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Reverse Dividend">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Stock Price" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="RevStockPrice" HorizontalAlignment="Left" Height="23" Margin="101,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="RevCalc_TextChanged" Text="0.00"/>
+                    <Label Content="Dividend %" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="RevPercent" HorizontalAlignment="Left" Height="23" Margin="101,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="RevCalc_TextChanged" Text="0.00"/>
+                    <Label Content="Desired Yield" HorizontalAlignment="Left" Margin="10,73,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="RevDesiredYield" HorizontalAlignment="Left" Height="23" Margin="101,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="RevCalc_TextChanged" Text="0"/>
+                    <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="137" Margin="40,136,0,0" VerticalAlignment="Top" Width="405">
+                        <Label x:Name="LblRevSharedNeeded" Content="Shares Needed: 0" Margin="15,19,14,20" FontWeight="Bold" FontSize="22" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center"/>
+                    </Border>
+                </Grid>
+            </TabItem>
         </TabControl>
 
     </Grid>
