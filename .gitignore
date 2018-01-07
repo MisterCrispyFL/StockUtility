@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/StockUtilities/v15
+/obj
+StockUtilities/obj/Debug/MainWindow.baml
+StockUtilities/obj/Debug/StockUtilities.csproj.CoreCompileInputs.cache
+StockUtilities/obj/Debug/StockUtilities_MarkupCompile.cache
