@@ -48,6 +48,11 @@
                     <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="137" Margin="40,136,0,0" VerticalAlignment="Top" Width="405">
                         <Label x:Name="LblDivYield" Content="Total Yield: $0.00" Margin="15,19,14,20" FontWeight="Bold" FontSize="22" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center"/>
                     </Border>
+                    <StackPanel HorizontalAlignment="Left" Height="76" Margin="268,19,0,0" VerticalAlignment="Top" Width="150">
+                        <RadioButton x:Name="DivRbMonthly" Margin="5" Content="Monthly" GroupName="DivPeriod" Checked="HandleDivCalcCheck"/>
+                        <RadioButton x:Name="DivRbQuarterly" Margin="5" Content="Quarterly" GroupName="DivPeriod" Checked="HandleDivCalcCheck"/>
+                        <RadioButton x:Name="DivRbYearly" Margin="5" Content="Yearly" GroupName="DivPeriod"  Checked="HandleDivCalcCheck" IsChecked="True"/>
+                    </StackPanel>
                 </Grid>
             </TabItem>
             <TabItem Header="Reverse Dividend">
@@ -61,6 +66,11 @@
                     <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="137" Margin="40,136,0,0" VerticalAlignment="Top" Width="405">
                         <Label x:Name="LblRevSharedNeeded" Content="Shares Needed: 0" Margin="15,19,14,20" FontWeight="Bold" FontSize="22" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center"/>
                     </Border>
+                    <StackPanel HorizontalAlignment="Left" Height="76" Margin="268,19,0,0" VerticalAlignment="Top" Width="150">
+                        <RadioButton x:Name="RevDivRbMonthly" Margin="5" Content="Monthly" GroupName="DivPeriod" Checked="HandleRevDivCalcCheck"/>
+                        <RadioButton x:Name="RevDivRbQuarterly" Margin="5" Content="Quarterly" GroupName="DivPeriod" Checked="HandleRevDivCalcCheck"/>
+                        <RadioButton x:Name="RevDivRbYearly" Margin="5" Content="Yearly" GroupName="DivPeriod"  Checked="HandleRevDivCalcCheck" IsChecked="True"/>
+                    </StackPanel>
                 </Grid>
             </TabItem>
         </TabControl>

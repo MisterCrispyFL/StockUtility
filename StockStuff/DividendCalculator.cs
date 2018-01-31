@@ -14,6 +14,12 @@ namespace StockStuff
             return rawCalculatedAmount.ToCurrency();
         }
 
+        public decimal CalculateDividendYield(DividendPeriod period)
+        {
+            var rawCalculatedAmount = CalculateDividendYield() / period.ToInt();
+            return rawCalculatedAmount.ToCurrency();
+        }
+
         public int CalculateNeededShares()
         {
             var numberOfShares = (DividendYield/(DividendPercentage/100))/StockPrice;
@@ -22,5 +28,14 @@ namespace StockStuff
 
             return roundedNumberOfShares;
         }
+
+        public int CalculateNeededShares(DividendPeriod period)
+        {
+            var numberOfShares = ((DividendYield * period.ToInt()) / (DividendPercentage / 100)) / StockPrice;
+
+            var roundedNumberOfShares = Convert.ToInt32(numberOfShares);
+
+            return roundedNumberOfShares;
+            }
     }
 }

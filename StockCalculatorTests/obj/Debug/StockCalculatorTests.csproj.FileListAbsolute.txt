@@ -15,3 +15,21 @@ C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockCalc
 C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockCalculatorTests\obj\Debug\StockCalculatorTests.csprojResolveAssemblyReference.cache
 C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockCalculatorTests\obj\Debug\StockCalculatorTests.dll
 C:\Users\MrCrispy\Documents\Visual Studio 2017\Projects\StockUtilities\StockCalculatorTests\obj\Debug\StockCalculatorTests.pdb
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\xunit.abstractions.dll
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\StockCalculatorTests.dll
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\StockCalculatorTests.pdb
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\StockStuff.dll
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\xunit.assert.dll
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\xunit.core.dll
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\StockStuff.pdb
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\xunit.assert.xml
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\xunit.core.xml
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\obj\Debug\StockCalculatorTests.csprojResolveAssemblyReference.cache
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\obj\Debug\StockCalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\obj\Debug\StockCalculatorTests.dll
+C:\Users\MrCrispy\Documents\GitHub\StockUtility\StockCalculatorTests\obj\Debug\StockCalculatorTests.pdb
