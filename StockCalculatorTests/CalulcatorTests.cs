@@ -1,6 +1,5 @@
 ﻿namespace StockCalculatorTests
 {
-    using System;
     using StockStuff;
     using Xunit;
 
@@ -47,49 +46,58 @@
         public void CalculateDividendYield_ReturnsProperAmount()
         {
             var factory = new DividendCalculator
-                          {
-                              StockPrice = 12.00M,
-                              NumberOfShares = 30,
-                              DividendPercentage = 3.86M
-                          };
+            {
+                StockPrice = 12.00M,
+                NumberOfShares = 30,
+                DividendPercentage = 3.86M
+            };
             var result = factory.CalculateDividendYield();
 
             Assert.Equal(13.90M, result);
         }
 
         [Fact]
+        public void CalulcateDividendYieldWithPeriod_ReturnsProperAmount()
+        {
+            var factory = new DividendCalculator
+            {
+                StockPrice = 12.00M,
+                NumberOfShares = 30,
+                DividendPercentage = 3.86M
+            };
+            var result = factory.CalculateDividendYield(DividendPeriod.Quarterly);
+            Assert.Equal(3.48M, result);
+        }
+
+        [Fact]
         public void CalculateNeededShares_ReturnsProperNumberOfShares()
         {
             var factory = new DividendCalculator
-                          {
-                              StockPrice = 12.00M,
-                              DividendPercentage = 3.86M,
-                              DividendYield = 13.90M
-                          };
+            {
+                StockPrice = 12.00M,
+                DividendPercentage = 3.86M,
+                DividendYield = 13.90M
+            };
 
             var result = factory.CalculateNeededShares();
 
             Assert.Equal(30, result);
         }
 
-        //[Fact]
-        //public void CalculateBreakEven_WithImproperData_ThrowsException()
-        //{
-        //    var factory = new StockCalculator();
+        [Fact]
+        public void CalculateNeededSharesWithPeriod_ReturnsProperAmount()
+        {
+            var factory = new DividendCalculator
+                          {
+                              StockPrice = 12.00M,
+                              DividendPercentage = 3.86M,
+                              DividendYield = 15.00M
+                          };
 
-        //    Exception ex = Assert.Throws<CalculatorException>(() => factory.CalculateBreakEvenPrice());
+            var result = factory.CalculateNeededShares(DividendPeriod.Quarterly);
 
-        //    Assert.Equal("Required Data Not Provided.", ex.Message);
-        //}
-
-        //[Fact]
-        //public void CalculateProfit_WithImproperData_ThrowsException()
-        //{
-        //    var factory = new StockCalculator();
-
-        //    Exception ex = Assert.Throws<CalculatorException>(() => factory.CalculateProfit());
-
-        //    Assert.Equal("Required Data Not Provided.", ex.Message);
-        //}
+            Assert.Equal(130, result);
+        }
+        
     }
 }

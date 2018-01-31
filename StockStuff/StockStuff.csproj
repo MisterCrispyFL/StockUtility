@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="CalculatorException.cs" />
     <Compile Include="DividendCalculator.cs" />
+    <Compile Include="DividendPeriod.cs" />
     <Compile Include="ExtensionMethods.cs" />
     <Compile Include="IDividendCalc.cs" />
     <Compile Include="IProfitObject.cs" />

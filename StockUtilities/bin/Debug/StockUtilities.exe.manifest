@@ -42,26 +42,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="StockStuff.dll" size="6656">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="StockStuff.dll" size="8704">
       <assemblyIdentity name="StockStuff" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>iFCgYRVWakPnrujzoKbwG0o1sWzx0LI6tAHiIXLC2YU=</dsig:DigestValue>
+        <dsig:DigestValue>jKDq8LnuAw3N4MIIwVIzLrSVFo/RV67zNK4OZm95lMc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="StockUtilities.exe" size="15336">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="StockUtilities.exe" size="21504">
       <assemblyIdentity name="StockUtilities" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>c3XNINLf1GnefG6QiBtzWJhmu6Pn49QpCyc5OJqC9Bo=</dsig:DigestValue>
+        <dsig:DigestValue>6dkHFcywA/4Nd7m6OLexcy6nEfTZqwTLrqaUqgloWIg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
